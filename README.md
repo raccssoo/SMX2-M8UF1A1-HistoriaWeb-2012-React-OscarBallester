@@ -23,3 +23,14 @@ Facebook, diseñada para la construcción de interfaces de usuario interactivas 
     h. Soporte para aplicaciones de una sola página (SPA)
     i. Rendimiento optimizado
     j. Actualizaciones y mejoras continuas
+
+    
+### 3. Conclusión
+
+<p style="text-align: justify;">
+En resumen, React funciona mediante la creación de componentes reutilizables que gestionan su estado interno y se actualizan eficientemente utilizando un Virtual DOM para minimizar la manipulación del DOM real. Este enfoque de programación modular y la optimización del rendimiento hacen que React sea una elección popular para el desarrollo de aplicaciones web interactivas y dinámicas.
+
+
+<div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/raccssoo/SMX2-M8UF1A1-HistoriaWeb-2012-React-OscarBallester/main/Images/reactlibrary.jpg?token=GHSAT0AAAAAACHULFFFUG3WCRSVJNN2HLDGZJADZ5Q" alt="Texto alternativo" width="400px" />
+</div>
