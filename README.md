@@ -7,7 +7,7 @@ __________________
 
 <p style="text-align: justify;"> React es una popular biblioteca de JavaScript desarrollada y mantenida por 
 
-</p><img src=https://raw.githubusercontent.com/raccssoo/SMX2-M8UF1A1-HistoriaWeb-2012-React-OscarBallester/main/Images/reactlogo.jpg?token=GHSAT0AAAAAACHULFFFSRJQ5JN3MPASX64UZJAC2LQ alt="react" style="float: right; width: 150px;">
+</p><img src=https://raw.githubusercontent.com/raccssoo/SMX2-M8UF1A1-HistoriaWeb-2012-React-OscarBallester/main/Images/reactlogo.jpg?token=GHSAT0AAAAAACHULFFE6DUPOFRC7QMIXOOMZJAD45Q alt="react" style="float: right; width: 150px;">
 
 Facebook, diseñada para la construcción de interfaces de usuario interactivas y eficientes. Se utiliza ampliamente para el desarrollo de aplicaciones web de una sola página (SPA) y aplicaciones móviles.
 
